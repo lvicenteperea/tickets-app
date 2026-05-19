@@ -1,0 +1,5 @@
+fastapi==0.115.6
+uvicorn[standard]==0.32.1
+python-multipart==0.0.19
+pydantic-settings==2.6.1
+mysql-connector-python==9.1.0
